@@ -4,4 +4,6 @@ Tengo 34 años de edad...
 
 Soy ingeniero de sistemas...
 
-Hoy es el CEO de MAMBO
+Hoy es el CEO de MAMBO. 
+
+Hablaremos de su vida en este momento.
